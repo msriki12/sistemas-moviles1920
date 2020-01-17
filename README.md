@@ -25,6 +25,6 @@ A destacar:
 
 - Todos los iconos/imágenes que se han utilizado para realizar la aplicación (salvo las imágenes principales de la lista de comida) han sido dibujadas por mí.
 
-- Funcionalidad a añadir:
+Funcionalidad a añadir:
 
  Sistema de gestión de notificaciones que avise cuando un alimento esté a punto de ponerse malo.
