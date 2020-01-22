@@ -3,7 +3,7 @@ Documentación de la práctica final de Sistemas Móviles del curso 2019/20 del 
 
 Aplicación: Mi Nevera
 
-Funcionalidad: La aplicación mi nevera se basa en una lista en la que puedes guardar platos cocinados y refrigerados de forma que en todo momento puedas consultar los platos que tienes en la nevera y de esa manera evitar que la comida se ponga mala. La aplicación permite registrar en una lista de dos columnas un nuevo plato de comida, que consta de un nombre de plato* y un alimento principal. En función del alimento principal la aplicación determina cuántos días durará el alimento en buen estado en el refrigerador. Al elegir un alimento principal, se cambia la fotografía representativa en función de éste. Además de esto, el sistema se conecta con una API REST externa* que se encarga de proporcionar información nutricional sobre el plato que se ha introducido basándose en el nombre del plato. Esta API utiliza un motor de procesamiento de lenguaje natural para deducir algunos de los aspectos del plato.
+Funcionalidad: La aplicación mi nevera se basa en una lista en la que puedes guardar platos cocinados y refrigerados de forma que en todo momento puedas consultar los platos que tienes en la nevera y de esa manera evitar que la comida se ponga mala. La aplicación permite registrar en una lista de dos columnas un nuevo plato de comida, que consta de un nombre de plato* y un alimento principal. En función del alimento principal la aplicación determina cuántos días durará el alimento en buen estado en el refrigerador. Al elegir un alimento principal, se cambia la fotografía representativa en función de éste.
 
 Herramientas utilizadas: 
 
