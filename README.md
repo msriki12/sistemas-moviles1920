@@ -11,7 +11,7 @@ Herramientas utilizadas:
 
 - Lista de alimentos: Para mostrar la lista de alimentos he utilizado CardView + RecyclerView y para guardarlos en la base de datos he utilizado la librería Room, que permite implementar una base de datos de manera muy bien estructurada.
 
-- Análisis de datos: Para realizar las peticiones a la API REST he utilizado la libería Retrofit2, y la API utilizada es "Nutrition Analysis API" de Edamam (https://www.edamam.com/).
+- Alertas: Para mostrar una lista de alertas he utilizado CardView + RecyclerView y Room para la base de datos. Se generan alertas automáticamente con un servicio cuando el alimento vaya a ponerse malo, y se actualizan al estado crítico cuando falte 1 día para su caducidad
 
 Funcionamiento de la aplicación:
 
@@ -24,7 +24,3 @@ Funcionamiento de la aplicación:
 A destacar:
 
 - Todos los iconos/imágenes que se han utilizado para realizar la aplicación (salvo las imágenes principales de la lista de comida) han sido dibujadas por mí.
-
-Funcionalidad a añadir:
-
- Sistema de gestión de notificaciones que avise cuando un alimento esté a punto de ponerse malo.
