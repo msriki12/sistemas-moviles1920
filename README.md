@@ -1,4 +1,4 @@
-# sistemas-moviles1920
+# Práctica Final Sistemas Móviles 19/20
 Documentación de la práctica final de Sistemas Móviles del curso 2019/20 del alumno ricmart
 
 Aplicación: Mi Nevera
