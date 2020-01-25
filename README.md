@@ -7,25 +7,25 @@ Funcionalidad: La aplicación mi nevera se basa en una lista en la que puedes gu
 
 Herramientas utilizadas: 
 
-![Tutorial con Sliders](screenshots/tutorial_view)
+![Tutorial con Sliders](screenshots/tutorial_view.png)
 
 - Intro Slider: Para realizar un pequeño tutorial a modo de introducción que se ejecuta tan sólo la primera vez que abres la aplicación, he utilizado PageViewer y he modificado el archivo Manifest para ejecutar el Slider como Main Activity la primera vez.
 
-![Tutorial con Sliders](screenshots/home_screen_view)
+![Tutorial con Sliders](screenshots/home_screen_view.png)
 
 - Lista de alimentos: Para mostrar la lista de alimentos he utilizado CardView + RecyclerView y para guardarlos en la base de datos he utilizado la librería Room, que permite implementar una base de datos de manera muy bien estructurada.
 
-![Tutorial con Sliders](screenshots/item)
+![Tutorial con Sliders](screenshots/item.png)
 
 - Opciones de alimento en la vista de lista: Si mantienes pulsado en un alimento de la lista, se despliega un menú emergente que permite borrar ese elemento. Si se pulsa en cualquier parte del alimento se abrirá la pantalla de edición, mientras que si se pulsa sobre el icono de calendario que aparece en la esquina inferior derecha, se abrirá una ventana de diálogo que indica los días que faltan para que el alimento caduque.
 
-![Tutorial con Sliders](screenshots/add_item_view)
+![Tutorial con Sliders](screenshots/add_item_view.png)
 
 - Alimentos: Cada alimento se compone de una imagen, un título y un alimento principal. La imagen del alimento va cambiando en función del alimento principal elegido, para ayudar al usuario a distinguir rápidamente de qué alimento se trata cada elemento de la lista.
 
 - Alertas: En ella se muestran las últimas notificaciones recibidas para el alimento en cuestión. Así el usuario tendrá un recordatorio extra de los avisos que han llegado.
 
-![Tutorial con Sliders](screenshots/settings_view)
+![Tutorial con Sliders](screenshots/settings_view.png)
 
 - Pantalla de ajustes: Para realizarla se ha utilizado el componenete PreferenceFragment con un archivo PreferenceScreen para mostrar las diferentes opciones. En esta vista se encuentra un botón para enviar feedback a mi correo de la universidad, un acceso directo a esta documentación, y un acceso a mi Linkedin y a mi Github.
 
