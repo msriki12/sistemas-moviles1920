@@ -32,10 +32,10 @@ Herramientas utilizadas:
 - Notificaciones: Existen dos tipos de notificaciones en mi aplicación. Para mandar notificaciones he utilizado AlarmManager, que permite colocar un delay definido para mandar la notificación. La notificación se envía en background aunque se cierre la aplicación, pero si se apaga el teléfono se cancela el envío. Para enviar notificaciones he utilizado un canal que envía un NotificationCompat a través de un manager. Utilizo un time stamp para que las notificaciones no se solapen.
 
  Notificacion tipo 1 (Regular: Faltan 2 días para caducar)
-![Tutorial con Sliders](screenshots/tutorial_view.png)
+![Tutorial con Sliders](screenshots/notification.png)
 
  Notificación tipo 2 (Crítica: Falta 1 día para caducar)
-![Tutorial con Sliders](screenshots/tutorial_view.png)
+![Tutorial con Sliders](screenshots/notification_critical.png)
 
 - Servicio: Como no se me ocurría ningún servicio que pudiera ser de utilidad para la aplicación en sí, he utilizado un servicio en segundo plano que manda una notificación semanal si la aplicación no se ha abierto para animar al usuario a que la utilice.
 
