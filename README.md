@@ -37,7 +37,7 @@ Herramientas utilizadas:
  Notificación tipo 2 (Crítica: Falta 1 día para caducar)
 ![Tutorial con Sliders](screenshots/notification_critical.png)
 
-- Servicio: Como no se me ocurría ningún servicio que pudiera ser de utilidad para la aplicación en sí, he utilizado un servicio en segundo plano que manda una notificación semanal si la aplicación no se ha abierto para animar al usuario a que la utilice.
+- Servicio: He utilizado un servicio en segundo plano que está activo todo el tiempo y que manda una notificación semanal si la aplicación no se ha abierto para animar al usuario a que la utilice.
 
 Funcionamiento de la aplicación:
 
