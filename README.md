@@ -37,8 +37,6 @@ Herramientas utilizadas:
  Notificación tipo 2 (Crítica: Falta 1 día para caducar)
 ![Tutorial con Sliders](screenshots/notification_critical.png)
 
-- Servicio: He utilizado un servicio en segundo plano que está activo todo el tiempo y que manda una notificación semanal si la aplicación no se ha abierto para animar al usuario a que la utilice.
-
 Funcionamiento de la aplicación:
 
 - Para añadir alimentos a la lista, bastará con pulsar el botón con un símbolo '+' en la parte inferior derecha de la pantalla.
